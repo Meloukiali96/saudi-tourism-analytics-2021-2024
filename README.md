@@ -1,4 +1,4 @@
-![Dashboard Overview](powerbi/screenshots/Overview.jpg)
+![Dashboard Overview](overview.png)
 
 # saudi-tourism-analytics-2021-2024
 

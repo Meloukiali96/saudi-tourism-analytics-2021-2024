@@ -75,3 +75,8 @@ Database: PostgreSQL (SQL queries for cleaning & aggregation)
 Visualization: Power BI (interactive dashboard, KPI cards, geo-maps, decomposition trees)
 
 Data: Aggregated from tourism & hotel ADR datasets (2021–2024)
+
+Project Structure
+- `data/` – Raw and processed datasets  
+- `sql/` – SQL queries for generating insights  
+- `powerbi/` – Power BI file and dashboard exports 

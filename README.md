@@ -1,4 +1,4 @@
-![Dashboard Overview](overview.jpg)
+![Dashboard Overview](Overview.jpg)
 
 # saudi-tourism-analytics-2021-2024
 

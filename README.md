@@ -1,6 +1,6 @@
 # saudi-tourism-analytics-2021-2024
 
-![Dashboard Overview](Overview.jpg)
+![Dashboard Overview](powerbi/Overview.jpg)
 
 This project explores tourism patterns in Saudi Arabia between 2021–2024 using PostgreSQL for data analysis and Power BI for visualization. The goal is to understand how spending, accommodation pricing, and tourist types evolved over time.
 
